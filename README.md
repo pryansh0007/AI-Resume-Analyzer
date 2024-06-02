@@ -7,13 +7,13 @@
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/pryansh0007/AI-Resume-Analyzer" alt="last update" />
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
-    <img src="https://img.shields.io/github/languages/top/deepakpadhi986/AI-Resume-Analyzer?color=red" alt="language" />
-    <img src="https://img.shields.io/github/languages/code-size/deepakpadhi986/AI-Resume-Analyzer?color=informational" alt="code size" />
-    <img src="https://visitor-badge.glitch.me/badge?page_id=deepakpadhi986.AI-Resume-Analyzer&left_color=grey&right_color=blueviolet" alt="visitors count" />
-    <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/deepakpadhi986/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
+    <img src="https://img.shields.io/github/languages/top/pryansh0007/AI-Resume-Analyzer?color=red" alt="language" />
+    <img src="https://img.shields.io/github/languages/code-size/pryansh0007/AI-Resume-Analyzer?color=informational" alt="code size" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=pryansh0007.AI-Resume-Analyzer&left_color=grey&right_color=blueviolet" alt="visitors count" />
+    <a href="https://github.com/pryansh0007/AI-Resume-Analyzer/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/pryansh0007/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
     </a>
   </p>
   
